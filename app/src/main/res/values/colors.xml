@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#ff000000</color>
+    <color name="title_color">#E75252</color>
+    <color name="white">#ffffffff</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="dark_gray_text_color">#ff666666</color>
+    <color name="textInputLayout">#96ffffff</color>
+    <color name="text_gray">#A0A0A0</color>
+    <color name="appColor">#00c08d</color>
+</resources>

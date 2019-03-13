@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MvpStandardPro_AS</string>
+    <string name="versionchecklib_download_apkname">%s.apk</string>
+</resources>
